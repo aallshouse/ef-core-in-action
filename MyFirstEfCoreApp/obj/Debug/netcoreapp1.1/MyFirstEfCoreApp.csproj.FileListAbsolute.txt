@@ -1,0 +1,9 @@
+C:\SaveEverythingHere\MyFirstEfCoreApp\MyFirstEfCoreApp\bin\Debug\netcoreapp1.1\MyFirstEfCoreApp.deps.json
+C:\SaveEverythingHere\MyFirstEfCoreApp\MyFirstEfCoreApp\bin\Debug\netcoreapp1.1\MyFirstEfCoreApp.runtimeconfig.json
+C:\SaveEverythingHere\MyFirstEfCoreApp\MyFirstEfCoreApp\bin\Debug\netcoreapp1.1\MyFirstEfCoreApp.runtimeconfig.dev.json
+C:\SaveEverythingHere\MyFirstEfCoreApp\MyFirstEfCoreApp\bin\Debug\netcoreapp1.1\MyFirstEfCoreApp.dll
+C:\SaveEverythingHere\MyFirstEfCoreApp\MyFirstEfCoreApp\obj\Debug\netcoreapp1.1\MyFirstEfCoreApp.csprojResolveAssemblyReference.cache
+C:\SaveEverythingHere\MyFirstEfCoreApp\MyFirstEfCoreApp\obj\Debug\netcoreapp1.1\MyFirstEfCoreApp.AssemblyInfo.cs
+C:\SaveEverythingHere\MyFirstEfCoreApp\MyFirstEfCoreApp\bin\Debug\netcoreapp1.1\MyFirstEfCoreApp.pdb
+C:\SaveEverythingHere\MyFirstEfCoreApp\MyFirstEfCoreApp\obj\Debug\netcoreapp1.1\MyFirstEfCoreApp.dll
+C:\SaveEverythingHere\MyFirstEfCoreApp\MyFirstEfCoreApp\obj\Debug\netcoreapp1.1\MyFirstEfCoreApp.pdb
