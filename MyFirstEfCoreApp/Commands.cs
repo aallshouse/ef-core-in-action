@@ -2,6 +2,7 @@
 using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Linq;
 
 namespace MyFirstEfCoreApp
 {
@@ -26,9 +27,20 @@ namespace MyFirstEfCoreApp
         }
       }
 
-      public static void ChangeWebUrl()
+      public static void ChangeWebUrl(int entityId)
       {
-        
+        using(var db = new AppDbContext())
+        {
+          var book = db.Books
+            .Include(a => a.Author)
+            .Single(b => b.BookId == entityId);
+          Console.Write($"{book.Title} > ");
+          var newWebUrl = Console.ReadLine();
+          book.Author.WebUrl = newWebUrl;
+          db.SaveChanges();
+          Console.WriteLine("... SaveChanges called.");
+        }
+        ListAll();
       }
     }
 }
